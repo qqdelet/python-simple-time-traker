@@ -1,7 +1,5 @@
 README on Eng and Rus lenguages, first English
 
----
-
 ## 🇬🇧 English Version
 
 ---
