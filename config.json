@@ -1,0 +1,9 @@
+{
+    "apps": [
+        "devenv.exe",
+        "Code.exe",
+        "dota2.exe",
+        "idea64.exe"
+    ],
+    "auto_back_up": true
+}
